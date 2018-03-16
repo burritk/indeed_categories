@@ -10,7 +10,7 @@ try:
         cur.execute('CREATE TABLE PRODUCT (title text, description text, category text, link text, keyword text)')
 except: pass
 query = 'INSERT INTO PRODUCT values(?, ?, ?, ?, ?)'
-driver = get_headed_driver()
+driver = get_headless_driver(no_sandbox=True)
 results = []
 with open('indeed_categories.txt', 'r') as input_file:
     for line in input_file:
