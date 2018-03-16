@@ -1,0 +1,26 @@
+Advertising, Public Relations, Journalist, Communications:Communications
+Sing, Act, Craft, Decoration, Art:Art
+Sales, Customer Service, Consulting, International Business, B2B, Business Excellence, Business Development:Business Development
+Mobile Development, Web Development, Desktop Software, Coding:Coding
+Hardware, Networking, Helpdesk, Network Security, Computing:Computing
+Graphic Design, Fashion Design, 3D Design, Animation, Creativity, Design:Design
+Community Management, E-Commerce, SEO, Digital Marketing:Digital Marketing
+Training, Coaching, Teaching, Education:Education
+Architecture, Interior Design, Landscape Architecture, Environment Design:Environment Design
+Event Production, Hosting, Entertainment, Events:Events
+Accounting, Auditing, Tax, Insurance, Investment, Treasury, Finance:Finance
+Management, Project Management, Planning, Strategy, General Business:General Business
+Nursing, Housekeeping, Home Help:Home Help
+Tourism, Food & Beverages, Catering, Hospitality:Hospitality
+Recruiting, Recruiter, Headhunting, Headhunter, Talent Acquisition, Human Resources:Human Resources
+Data Analyst, Database management, Statistics, Information Technology:Information Technology
+Intellectual Property, Mediation, Litigation, Litigator, Legal:Legal
+Production, Machine Operations, Product Development, Quality Control, Industrial Engineer, Technology Devevelopment, Manufacturing:Manufacturing
+Branding, Product Management, Growth Hacking, Brand manager, Marketing:Marketing
+Pharmacy, Home Health Aid, Therapy, Clinical Laboratory, Dental, Medicine:Medicine
+Oil & Gas, Oil And Gas, Oil & Gas:Oil & Gas
+Buying, Procurement, Category Buying, Buyer, Purchasing:Purchasing
+Construction, Civil Engineering, Inspection, Realtor, Real State:Real State
+Visual Merchandising, Merchandising, B2C, Store, Retail:Retail
+Distribution, Logistics, Warehousing, Supply Chain:Supply Chain
+Languages, Proof Reading, Copywriting, Editing, Translator, Translation, Writing:Writing
