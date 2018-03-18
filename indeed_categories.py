@@ -14,7 +14,7 @@ try:
         cur.execute('CREATE TABLE RESUME (category text, keyword text, title text, name text, location text, summary text, resume text, link text)')
 except: pass
 query = 'INSERT INTO RESUME values(?, ?, ?, ?, ?, ?, ?, ?)'
-driver = get_headless_driver()
+driver = get_headless_driver(no_sandbox=True)
 results = []
 # driver.get('https://secure.indeed.com/account/login?')
 # email = driver.find_element_by_xpath('//*[@id="signin_email"]')
